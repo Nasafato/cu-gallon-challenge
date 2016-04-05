@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     padding: 10px auto;
     width: 75%;
-    background: #f4de57
+    background: #3a92b2
 }
 nav ul, footer ul {
     font-family:'Century Gothic', 'Arial', 'Arial';
@@ -22,7 +22,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 72px;
+    font-size: 50px;
     font-family:'Century Gothic', 'Arial', 'Arial';
     float: center;
 }
