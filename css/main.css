@@ -49,4 +49,5 @@ line {
 }
 div {
     column-rule: 1px solid #d3d444;
+    column-width: 100px;
 }
