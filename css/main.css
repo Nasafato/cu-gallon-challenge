@@ -26,10 +26,12 @@ h1 {
     font-family:'Century Gothic', 'Arial', 'Arial';
     float: center;
     color: #d3d444;
+    column-span: all;
 }
 h2 {
     font-size: 25px;
     font-family:'Century Gothic', 'Arial', 'Arial';
+    column-span: all;
 }
 p {
     font-family: 'Arial';
@@ -40,7 +42,11 @@ p {
 footer {
     border-top: 1px solid #d3d444;
     font-size: .8em;
+    column-span: all;
 }
 line {
     border-top: 1px solid #d3d444;
+}
+div {
+    column-rule: 1px solid #d3d444;
 }
