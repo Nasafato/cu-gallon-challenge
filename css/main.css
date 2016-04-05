@@ -47,7 +47,7 @@ footer {
 line {
     border-top: 1px solid #d3d444;
 }
-div {
+column {
     column-rule: 1px solid #d3d444;
     column-width: 100px;
 }
