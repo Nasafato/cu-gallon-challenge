@@ -1,0 +1,3 @@
+Website for the Columbia University Gallon Challenge
+
+This site is a part of our project for Design for America this semester.  We decided to work with the Columbia University Aquanauts to increase interest in the Gallon Challenge, which encourages students to gain awareness of water conservancy issues by using only one gallon of water for one day.  Our team has endeavored to get more students involved in the challenge by updating the branding and marketing for the challenge and by creating a website for the challenge.  We also wanted to enhance the gallon challenge by taking a greater role in educating students about water conservancy beyond the gallon challenge, which is another part of the goals for this website.
