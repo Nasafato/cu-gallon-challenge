@@ -28,12 +28,13 @@ h1 {
     float: center;
     color: #d3d444;
     column-span: all;
+    text-align: center;
 }
 h2 {
     font-size: 25px;
     font-family:'Century Gothic', 'Arial', 'Arial';
     column-span: all;
-    float: center;
+    text-align: center;
 }
 h3 {
     font-size: 35;
