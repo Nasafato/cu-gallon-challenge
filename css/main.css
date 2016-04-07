@@ -90,5 +90,8 @@ line {
 	overflow:hidden;
 }
 img {
-	background-image: none;
+	background-image:none;
+	width:275px;
+	height:275 px;
+	float:center;
 }
