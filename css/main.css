@@ -40,7 +40,7 @@ h3 {
     font-size: 35;
     font-family:'Century Gothic', 'Arial', 'Arial';
     column-span: all;
-    float: center;
+    text-align: center;
 }
 p {
     font-family: 'Arial';
