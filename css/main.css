@@ -35,6 +35,12 @@ h2 {
     column-span: all;
     float: center;
 }
+h3 {
+    font-size: 35;
+    font-family:'Century Gothic', 'Arial', 'Arial';
+    column-span: all;
+    float: center;
+}
 p {
     font-family: 'Arial';
     font-size: 20px;
