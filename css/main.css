@@ -110,7 +110,7 @@ img {
 	margin:auto;
 	display:block;
 }
-borderimg {
+.borderimg {
 	background-image:none;
 	width:2448px;
 	height:1836px;
