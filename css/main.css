@@ -123,14 +123,12 @@ img {
 	float:left;
 	width:100%;
 	overflow:hidden;
-	background:#ffa7a7; /* column 2 background colour */
 }
 #container5 {
 	float:left;
 	width:100%;
 	position:relative;
 	right:50%;
-	background:#fff689; /* column 1 background colour */
 }
 #col4 {
 	float:left;
