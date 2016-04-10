@@ -40,11 +40,17 @@ h3 {
     font-size: 35;
     font-family:'Arial';
     column-span: all;
+    text-align: left;
+}
+h4 {
+    font-size: 35;
+    font-family:'Arial';
+    column-span: all;
     text-align: center;
 }
 p {
     font-family: 'Arial';
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.5em;
     color: #333;
 }
