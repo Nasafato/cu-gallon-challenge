@@ -119,18 +119,16 @@ img {
 	display:block;
 }
 #container4 {
-	padding:10px;
 	clear:left;
 	float:left;
 	width:100%;
 	overflow:hidden;
 }
 #container5 {
-	padding:10px;
 	float:left;
 	width:100%;
 	position:relative;
-	right:45%;
+	right:50%;
 }
 #col4 {
 	float:left;
@@ -141,8 +139,8 @@ img {
 }
 #col5 {
 	float:left;
-	width:40%;
+	width:46%;
 	position:relative;
-	left:50%;
+	left:56%;
 	overflow:hidden;
 }
