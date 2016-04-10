@@ -74,46 +74,6 @@ footer {
 line {
     border-top: 1px solid #d3d444;
 }
-#container3 {
-	clear:left;
-	float:left;
-	width:100%;
-	overflow:hidden;
-}
-#container2 {
-	clear:left;
-	float:left;
-	width:100%;
-	position:relative;
-	right:33.333%;
-}
-#container1 {
-	float:left;
-	width:100%;
-	position:relative;
-	right:33.33%;
-}
-#col1 {
-	float:left;
-	width:29.33%;
-	position:relative;
-	left:68.67%;
-	overflow:hidden;
-}
-#col2 {
-	float:left;
-	width:29.33%;
-	position:relative;
-	left:72.67%;
-	overflow:hidden;
-}
-#col3 {
-	float:left;
-	width:29.33%;
-	position:relative;
-	left:76.67%;
-	overflow:hidden;
-}
 img {
 	background-image:none;
 	padding: 10px auto;
@@ -130,29 +90,6 @@ img {
 	margin:auto;
 	display:block;
 }
-#container4 {
-	clear:left;
-	float:left;
-	width:100%;
-	overflow:hidden;
-}
-#container5 {
-	float:left;
-	width:100%;
-	position:relative;
-	right:50%;
-}
-#col4 {
-	float:left;
-	width:46%;
-	position:relative;
-	left:50%;
-	overflow:hidden;
-}
-#col5 {
-	float:left;
-	width:46%;
-	position:relative;
-	left:56%;
-	overflow:hidden;
+.right {
+	float:right;
 }
