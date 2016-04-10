@@ -1,0 +1,157 @@
+body {
+    margin: 60px auto;
+    padding: 10px auto;
+    width: 75%;
+    background: #3a92b2;
+}
+nav ul, footer ul {
+    font-family:'Century Gothic', 'Arial', 'Arial';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 1.5em;
+}
+a {
+    text-decoration: none;
+    color: #d3d444;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 50px;
+    font-family:'Century Gothic', 'Arial', 'Arial';
+    float: center;
+    color: #d3d444;
+    column-span: all;
+    text-align: center;
+}
+h2 {
+    font-size: 22px;
+    font-family:'Century Gothic', 'Arial', 'Arial';
+    column-span: all;
+    text-align: center;
+}
+h3 {
+    font-size: 22px;
+    font-family:'Arial';
+    column-span: all;
+    text-align: center;
+}
+h4 {
+    font-size: 18px;
+    font-family:'Arial';
+    column-span: all;
+    text-align: center;
+}
+h5 {
+    font-size: 30px;
+    font-family:'Century Gothic';
+    column-span: all;
+    text-align: center;
+    color: #d3d444;
+}
+h6 {
+	font-family:'Century Gothic';
+	font-size:50px;
+	color: #d3d444;
+}
+p {
+    font-family: 'Arial';
+    font-size: 18px;
+    line-height: 1.5em;
+    color: #333;
+}
+footer {
+	font-size: 1.5em;
+    column-span: all;
+}
+line {
+    border-top: 1px solid #d3d444;
+}
+#container3 {
+	clear:left;
+	float:left;
+	width:100%;
+	overflow:hidden;
+}
+#container2 {
+	clear:left;
+	float:left;
+	width:100%;
+	position:relative;
+	right:33.333%;
+}
+#container1 {
+	float:left;
+	width:100%;
+	position:relative;
+	right:33.33%;
+}
+#col1 {
+	float:left;
+	width:29.33%;
+	position:relative;
+	left:68.67%;
+	overflow:hidden;
+}
+#col2 {
+	float:left;
+	width:29.33%;
+	position:relative;
+	left:72.67%;
+	overflow:hidden;
+}
+#col3 {
+	float:left;
+	width:29.33%;
+	position:relative;
+	left:76.67%;
+	overflow:hidden;
+}
+img {
+	background-image:none;
+	padding: 10px auto;
+}
+.borderimg {
+	background-image:none;
+	padding: 10px auto;
+	border:10px solid #FFFFFF;
+}
+.socialimg {
+	margin:none;
+}
+.centerimg {
+	margin:auto;
+	display:block;
+}
+#container4 {
+	clear:left;
+	float:left;
+	width:100%;
+	overflow:hidden;
+}
+#container5 {
+	float:left;
+	width:100%;
+	position:relative;
+	right:50%;
+}
+#col4 {
+	float:left;
+	width:46%;
+	position:relative;
+	left:50%;
+	overflow:hidden;
+}
+#col5 {
+	float:left;
+	width:46%;
+	position:relative;
+	left:56%;
+	overflow:hidden;
+}
