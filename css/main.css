@@ -48,6 +48,13 @@ h4 {
     column-span: all;
     text-align: center;
 }
+h5 {
+    font-size: 22px;
+    font-family:'Century Gothic', 'Arial', 'Arial';
+    column-span: all;
+    text-align: center;
+    color:#d3d444;
+}
 p {
     font-family: 'Arial';
     font-size: 18px;
