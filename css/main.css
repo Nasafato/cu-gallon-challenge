@@ -23,7 +23,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 65;
+    font-size: 65pt;
     font-family:'Century Gothic', 'Arial', 'Arial';
     float: center;
     color: #d3d444;
@@ -31,19 +31,19 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-size: 25;
+    font-size: 28pt;
     font-family:'Century Gothic', 'Arial', 'Arial';
     column-span: all;
     text-align: center;
 }
 h3 {
-    font-size: 50;
+    font-size: 28pt;
     font-family:'Arial';
     column-span: all;
     text-align: center;
 }
 h4 {
-    font-size: 35;
+    font-size: 22pt;
     font-family:'Arial';
     column-span: all;
     text-align: center;
