@@ -105,8 +105,6 @@ line {
 img {
 	background-image:none;
 	padding: 10px auto;
-	margin:auto;
-	display:block;
 }
 .borderimg {
 	background-image:none;
@@ -115,4 +113,8 @@ img {
 }
 .socialimg {
 	margin:none;
+}
+.centerimg {
+	margin:auto;
+	display:block;
 }
