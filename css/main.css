@@ -119,12 +119,14 @@ img {
 	display:block;
 }
 #container4 {
+	padding:10px;
 	clear:left;
 	float:left;
 	width:100%;
 	overflow:hidden;
 }
 #container5 {
+	padding:10px;
 	float:left;
 	width:100%;
 	position:relative;
