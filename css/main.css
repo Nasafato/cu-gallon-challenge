@@ -55,8 +55,7 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d3d444;
-    font-size: 1.5em;
+	font-size: 1.5em;
     column-span: all;
 }
 line {
