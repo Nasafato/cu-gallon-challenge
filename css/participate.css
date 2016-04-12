@@ -54,18 +54,17 @@ h5 {
     font-family:'Century Gothic';
     column-span: all;
     text-align: center;
-    color: #d3d444;
+    color: #3a92b2;
 }
 h6 {
 	font-family:'Century Gothic';
 	font-size:50px;
-	color: #d3d444;
+	color: #3a92b2;
 }
 p {
     font-family: 'Arial';
     font-size: 18px;
     line-height: 1.5em;
-    color: #333;
 }
 footer {
 	font-size: 1.5em;
@@ -81,7 +80,7 @@ img {
 .borderimg {
 	background-image:none;
 	padding: 20px auto;
-	border:10px solid #FFFFFF;
+	border:10px solid #d3d444;
 }
 .socialimg {
 	margin:none;
