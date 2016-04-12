@@ -32,7 +32,8 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-size: 22px;
+    font-size: 28px;
+    color:#d3d444;
     font-family:'Century Gothic', 'Arial', 'Arial';
     column-span: all;
     text-align: center;
