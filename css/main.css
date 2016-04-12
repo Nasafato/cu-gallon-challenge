@@ -11,7 +11,7 @@ nav ul, footer ul {
     
     background:#3a92b2;
     font-family:'Century Gothic', 'Arial', 'Arial';
-    padding: 0px;
+    padding: 0px ! important;
     list-style: none;
     font-weight: bold;
 }
