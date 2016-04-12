@@ -5,6 +5,7 @@ body {
     background: #FFFFFF;
 }
 nav ul, footer ul {
+	background:#3a92b2;
     font-family:'Century Gothic', 'Arial', 'Arial';
     padding: 0px;
     list-style: none;
