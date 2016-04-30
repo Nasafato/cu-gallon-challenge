@@ -52,7 +52,7 @@ h4 {
 }
 h5 {
     font-size: 28px;
-    font-family:'Century Gothic';
+    font-family:'Century Gothic', 'Arial', 'Arial';
     column-span: all;
     text-align: center;
     color: #3a92b2;
