@@ -18,7 +18,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #3a92b2;
-    font-family:'Century Gothic';
+    font-family:'Century Gothic', 'Arial', 'Arial';
 }
 a:hover {
     text-decoration: underline;
@@ -58,9 +58,9 @@ h5 {
     color: #3a92b2;
 }
 h6 {
-	font-family:'Century Gothic';
-	font-size:50px;
-	color: #3a92b2;
+    font-family:'Century Gothic';
+    font-size:50px;
+    color: #3a92b2;
 }
 p {
     font-family: 'Arial';
@@ -69,7 +69,7 @@ p {
     color:#000000;
 }
 footer {
-	font-size: 1.5em;
+    font-size: 1.5em;
     column-span: all;
 }
 line {
